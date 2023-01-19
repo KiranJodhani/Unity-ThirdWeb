@@ -7,6 +7,6 @@ Unzip ThirdWebUnity.zip or upload to any platform which supports unity WebGL bui
 
 Install Metamask chrome extention
 
-Open run app
+run app in browser
 
 click on Metamask Button
