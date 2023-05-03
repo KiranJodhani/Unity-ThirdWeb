@@ -1,0 +1,1 @@
+{"mainScene":{"GameTitle":"Pumpkin Shooter","GameVersion":"0.9"},"gameScene":{"SessionLength":20.0}}
